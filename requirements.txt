@@ -3,3 +3,4 @@ jupyter
 h5netcdf
 geopandas
 rasterio
+matplotlib
