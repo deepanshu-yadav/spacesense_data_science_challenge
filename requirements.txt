@@ -1,0 +1,5 @@
+xarray
+jupyter
+h5netcdf
+geopandas
+rasterio
